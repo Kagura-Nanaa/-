@@ -3,3 +3,8 @@ DOMAIN-KEYWORD,t.co
 DOMAIN-KEYWORD,twimg.co
 DOMAIN-KEYWORD,twimg.com
 DOMAIN-KEYWORD,twimg.org
+PROCESS-NAME,tv.twitch.android.app
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
